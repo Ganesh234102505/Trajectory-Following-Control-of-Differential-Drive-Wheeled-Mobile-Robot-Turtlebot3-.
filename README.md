@@ -41,4 +41,4 @@ The PID controller calculates the necessary adjustments in wheel velocities to e
 - **Educational Platforms**: Robots like Turtlebot3 are used in academic environments to teach robotics, control systems, and autonomous navigation.
 
 ## 8. Conclusion
-By applying kinematic & dynamic models and PID control, we can precisely control a **Differential Drive Wheeled Mobile Robot (Turtlebot3)** to follow a rectangular trajectory. The **MATLAB Simulink** model successfully demonstrates trajectory tracking using feedback control. Such systems can be expanded to handle more complex paths and environments, providing valuable applications in autonomous robotics.
+By applying kinematic & dynamic models and PID control, we can precisely control a **Differential Drive Wheeled Mobile Robot (Turtlebot3)** to follow a rectangular trajectory. The **MATLAB Simulink** model successfully demonstrates trajectory tracking. Such systems can be expanded to handle more complex paths and environments, providing valuable applications in autonomous robotics.
