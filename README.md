@@ -1,4 +1,4 @@
-# Differential Drive Wheeled Mobile Robot (Turtlebot3) - Rectangular Trajectory Following using PID Control
+# Trajectory Following Control of Differential Drive Wheeled Mobile Robot (Turtlebot3)
 
 ## 1. Objective
 The goal of this project is to model a **Differential Drive Wheeled Mobile Robot (Turtlebot3)** using **MATLAB Simulink** and perform **rectangular trajectory following** with the help of a **PID control system**. The objective is to ensure accurate control and trajectory tracking by simulating the kinematic behavior of the robot and applying control strategies.
