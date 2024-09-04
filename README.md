@@ -12,14 +12,14 @@ Wheeled Mobile Robots (WMRs) are robots capable of autonomous locomotion in an e
 3. **Tricycle WMR**: A robot with three wheels, where one is typically used for steering (like a car).
 4. **Car-like WMR**: A model with a separate steering mechanism that mimics a car’s movement, where front wheels control steering and rear wheels drive the car forward.
 
-## 4. Working of Unicycle Model and Equations
+## 4. Unicycle Model and its working
 The unicycle model uses a single wheel for locomotion and is controlled by the linear velocity \(v\) and angular velocity \( \omega \).
 
 
 
 The model is simple but requires precise control of both velocities to follow desired paths.
 
-## 5. Working of Differential Drive WMR and Kinematic Equations
+## 5. Differential Drive WMR and its working
 The **Differential Drive WMR** consists of two independently driven wheels on either side of the robot.
 ### Working Mechanism:
 - **Moving Straight**: When both wheels move at the same speed, the robot moves in a straight line.
