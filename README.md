@@ -1,7 +1,7 @@
 # Trajectory Following Control of Differential Drive Wheeled Mobile Robot (Turtlebot3)
 
 ## 1. Objective
-The goal of this project is to model a **Differential Drive Wheeled Mobile Robot (Turtlebot3)** using **MATLAB Simulink** and perform **rectangular trajectory following** with the help of a **PID control system**. The objective is to ensure accurate control and trajectory tracking by simulating the kinematic behavior of the robot and applying control strategies.
+The goal of this project is to model a **Differential Drive Wheeled Mobile Robot (Turtlebot3)** using **MATLAB Simulink** based on kinematic & dynamic equations and perform **rectangular trajectory following** with the help of a **PID control technique**.
 
 ## 2. Introduction
 Wheeled Mobile Robots (WMRs) are robots capable of autonomous locomotion in an environment. They are a type of mobile robot that uses wheels for movement. In this project, we focus on differential drive robots, which control motion by adjusting the velocities of two wheels placed on either side of the robot. The robot's movement is simulated in MATLAB Simulink, where trajectory tracking is performed using a PID controller.
